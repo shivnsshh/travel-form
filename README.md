@@ -27,7 +27,7 @@ A simple web application that allows users to register for a trip. The form coll
 ## 📂 Project Structure
 
 cwh/
-│── trip.php
+│── index.html
 │── trip.php
 │── style.css
 
