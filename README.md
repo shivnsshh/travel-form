@@ -27,7 +27,7 @@ A simple web application that allows users to register for a trip. The form coll
 ## 📂 Project Structure
 
 cwh/
-│── index.php
+│── trip.php
 │── trip.php
 │── style.css
 
@@ -43,7 +43,7 @@ cwh/
 
 4. Open browser and go to:
 
-   http://localhost/cwh/index.php
+   http://localhost/cwh/trip.php
 
 ---
 
